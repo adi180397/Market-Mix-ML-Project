@@ -1,2 +1,5 @@
 Numpy
 pandas
+pymysql
+python-dotenv
+scikit-learn

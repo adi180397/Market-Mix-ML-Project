@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 logging.basicConfig(level=logging.INFO)
 
-project_name="SALES_ML_PROJECT"
+project_name=""
 
 file_list=[
     ".github/worrflow/.gitkeep",
